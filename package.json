@@ -1,0 +1,15 @@
+{
+  "name": "backend-workshops",
+  "version": "1.0.0",
+  "description": "Backend con API'S de todos los talleres anteriores",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
